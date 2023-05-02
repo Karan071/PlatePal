@@ -17,6 +17,5 @@ Your friendly companion in your cooking journey, offering inspiration and guidan
 7. Retrofit
 8. Lottie library
 
-# Screen Record
 
-/home/karan/Videos/Screencasts/PlatePal.mp4 
+
